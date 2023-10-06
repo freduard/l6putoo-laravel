@@ -1,5 +1,8 @@
 # Lõputöö
 
+## Ajakava
+- Projekti analüüsimine 6. Oktoober - 
+
 ## Projekti eesmärk
 Dünaamiliselt genereerida teoreetiline osa mis tahes projektidele.
 
@@ -7,12 +10,15 @@ Dünaamiliselt genereerida teoreetiline osa mis tahes projektidele.
 Teoreetilise osa soovituslik maht on 10-15 lehekülge, millele lisanduvad lisad. Töös kasutatakse
 üldtunnustatud ja väljakujunenud erialast terminoloogiat (sulgudes kaldkirjas inglisekeelne termin) ning
 lühendeid. 
-### Teoreetilises osas esitatakse: 
-- töö eesmärk ja olulisus; 
-- tehniline kirjeldus; 
-- praktilise teostuse kirjeldus;
-- töö teostamiseks vajaliku meeskonna koosseis, ülesannete jaotus; 
-- projekti teostamise ajakava (ja eelarve); 
+### Töö eesmärk ja olulisus
+Töö eesmärk on luua äpp, mis teeb mis tahes projekti teoreetilise (e. kirjaliku) osa lihtsamaks, vähem aega nõudvamaks ning mis oleks kättesaadav kõigile.
+Oluliseks peame kirjaliku töö osa lihtsustamist.
+### Tehniline kirjeldus
+Projekti põhiliseks tugisambaks on Laravel. Front-end'is kasutame React'i, ShadCDN UI libraryt ja TailwindCSS'i.
+### Praktilise teostuse kirjeldus
+     
+### töö teostamiseks vajaliku meeskonna koosseis, ülesannete jaotus
+### projekti teostamise ajakava (ja eelarve)
 - tulemuste analüüs. 
 Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi teadmisi kasutades erinevaid
 allikaid (raamatuid, teaduslikke artikleid, juhendeid, tootjate kodulehekülgi jne). Kasutatud kirjanduse
@@ -21,3 +27,6 @@ viidatud töö tekstis.
 
 ## Kirjaliku töö vormistamise nõuded
 [kirjaliku_toojuhend.pdf](https://github.com/freduard/l6putoo-laravel/files/12827760/kirjaliku_toojuhend.pdf)
+
+
+ 
