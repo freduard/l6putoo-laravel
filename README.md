@@ -57,6 +57,20 @@ hindamiskomisjoni liikmete märkustega.
 
 ## Töö hindamisel arvestab komisjon:
 
+### - kutse   taotleja   kaitsekõnet,   selle   ettevalmistust,   esinemise   korrektsust,   teema   valdamist,
+seisukohtade kaitsmist; 
+
+- töö aktuaalsust, ülesannete õiget püstitamist ja loogilist lahendamist, püstitatud eesmärgi
+saavutamist; 
+
+- töö vormistust ja selle vastavust kirjalike tööde vormistamise juhendile; 
+retsensendi hinnangut; 
+
+- kutse taotleja argumenteeritud vastuseid retsensendi, komisjoni liikmete ja kuulajate poolt
+esitatud küsimustele;
+
+kõik hindamiskriteeriumid peavad olema täidetud vähemalt minimaalsel tasemel.
+
 ## Kirjaliku töö vormistamise nõuded
 [kirjaliku_toojuhend.pdf](https://github.com/freduard/l6putoo-laravel/files/12827760/kirjaliku_toojuhend.pdf)
 
