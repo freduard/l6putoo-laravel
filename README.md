@@ -57,7 +57,7 @@ hindamiskomisjoni liikmete märkustega.
 
 ## Töö hindamisel arvestab komisjon:
 
-### - kutse   taotleja   kaitsekõnet,   selle   ettevalmistust,   esinemise   korrektsust,   teema   valdamist,
+- kutse   taotleja   kaitsekõnet,   selle   ettevalmistust,   esinemise   korrektsust,   teema   valdamist,
 seisukohtade kaitsmist; 
 
 - töö aktuaalsust, ülesannete õiget püstitamist ja loogilist lahendamist, püstitatud eesmärgi
