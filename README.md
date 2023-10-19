@@ -151,6 +151,8 @@ kõik hindamiskriteeriumid peavad olema täidetud vähemalt minimaalsel tasemel.
 
 #### Sisu sektsioon
 - Sisend, kus kasutaja kirjeldab enda töö sisu ja toob välja erinevaid näiteid.
+- Kasutaja saab luua uusi pealkirju lühikese kirjeldusega.
+- Kasutaja saab kustutada pealkirju ja kirjeldusi.
 
 #### Kokkuvõtte sektsioon
 
