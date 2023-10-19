@@ -83,16 +83,18 @@ kõik hindamiskriteeriumid peavad olema täidetud vähemalt minimaalsel tasemel.
 - Profiilile viitav nupp
 - Välja logimise nupp
 
-## Profiili lehtd
+## Profiili leht
 #### Andmete uuendamise sektsioon
 - Kasutajanime sisend
 - Meili sisend
 - Uute andmete salvestamise nupp
+- 
 #### Parooli uuendamise sektsioon
 - Praeguse parooli sisend
 - Uue parooli sisend
 - Uue parooli kordamise sisend
 - Uue parooli salvestamise nupp
+- 
 #### Konto kustutamise sektsioon
 - Konto kustutamise nupp
 - Konto kustamise vorm kus on vaja sisestada parool kinnituseks
@@ -105,7 +107,7 @@ kõik hindamiskriteeriumid peavad olema täidetud vähemalt minimaalsel tasemel.
 - Login andmete salvestamise nupp
 - Registreeremise nupp
 
-## Registreerimis leht
+## Registreerimise leht
 - Kasutajanime sisend
 - Emaili sisend
 - Parooli sisend
@@ -120,14 +122,43 @@ kõik hindamiskriteeriumid peavad olema täidetud vähemalt minimaalsel tasemel.
 - Uue parooli kordamise sisend
 
 ## Avaleht
-### Kasutaja tervitus
+
+#### Kasutaja tervitus
 - Tervitame kasutajat kasutades tema konto nime.
 
-### Genereeritud PDF failid avalehel
+#### Genereeritud PDF failid avalehel
 - Avalehel on list/array PDF faile mis kasutaja on varasemalt genereerinud.
 - PDF fail on allalaetav ja listist/arrayst kustutatav.
 
+## Footer
+- Tiimi liikmed piltidega ja portfoolio linkidega
+- Kontaktandmed
+- Kasutatud allikad
 
+## PDF Loomise leht
+- Ainult sisse logitud kasutaja saab ligipääsu.
+
+#### Tiitellehe sektsioon
+- Tiitelleht, kus on sisenditeks:
+  Kooli nimi, õppesuuna nimi, eriala nimi, oma nimi, töö pealkiri, tööliik, juhendaja nimi, kuupäev.
+
+#### Järjekord
+ - Automaatselt genereerimine pealkirjade põhjal.
+
+#### Sissejuhatus
+- Sisend, kus kasutaja kirjeldab lühidalt oma tööd.
+
+
+#### Sisu sektsioon
+- Sisend, kus kasutaja kirjeldab enda töö sisu ja toob välja erinevaid näiteid.
+
+#### Kokkuvõtte sektsioon
+
+- Sisend, kus kasutaja toob kokku lühidalt terve oma töö.
+
+#### Kasutatud allikad
+
+- Sisend, kus on lingid allikatest, mida kasutaja on kasutanud oma töös.
 
 
   
