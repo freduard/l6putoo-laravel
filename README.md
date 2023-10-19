@@ -76,29 +76,56 @@ kõik hindamiskriteeriumid peavad olema täidetud vähemalt minimaalsel tasemel.
 
 
 # Analüüs
+## Header
+- Avalehe link
+- Uue PDF faili genereerimise link
+#### Profiil
+- Profiilile viitav nupp
+- Välja logimise nupp
 
-## Login leht
+## Profiili lehtd
+#### Andmete uuendamise sektsioon
+- Kasutajanime sisend
+- Meili sisend
+- Uute andmete salvestamise nupp
+#### Parooli uuendamise sektsioon
+- Praeguse parooli sisend
+- Uue parooli sisend
+- Uue parooli kordamise sisend
+- Uue parooli salvestamise nupp
+#### Konto kustutamise sektsioon
+- Konto kustutamise nupp
+- Konto kustamise vorm kus on vaja sisestada parool kinnituseks
 
-- Tutvustus meie äpist.
+## Login Leht
+- Lühike tutvustus meie äpist
+- Emaili/kasutajanime sisend
+- Parooli sisend
+- Salasõna unustamise nupp
+- Login andmete salvestamise nupp
+- Registreeremise nupp
 
 ## Registreerimis leht
+- Kasutajanime sisend
+- Emaili sisend
+- Parooli sisend
+- Konto registreerimis nupp
+- Sisse logimise nupp juhul kui kasutajal on konto juba olemas
+
+## Salasaõna lähtestamine
+- Emaili sisestamine
+- Kinnituse nupule vajutades tuleb kasutajale meil salasõna lähtestamise lingiga
+#### Salasõna lähtestamise vorm
+- Uue parooli sisend
+- Uue parooli kordamise sisend
 
 ## Avaleht
+### Kasutaja tervitus
+- Tervitame kasutajat kasutades tema konto nime.
 
-- Tere tulemast tekst
-- Nupp, millele vajutades saab luua uue PDF- faili.
-  Nupule vajutades avaneb "Create" leht.
-
-
-
-### Kõik PDF failid, mida kasutaja on genereerinud.
-
-
-- PDF fail on allalaetav ja kustutatav.
-
-## PDF faili loomise leht
-
-- 
+### Genereeritud PDF failid avalehel
+- Avalehel on list/array PDF faile mis kasutaja on varasemalt genereerinud.
+- PDF fail on allalaetav ja listist/arrayst kustutatav.
 
 
 
