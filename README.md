@@ -75,4 +75,37 @@ kõik hindamiskriteeriumid peavad olema täidetud vähemalt minimaalsel tasemel.
 [kirjaliku_toojuhend.pdf](https://github.com/freduard/l6putoo-laravel/files/12827760/kirjaliku_toojuhend.pdf)
 
 
+# Analüüs
+
+## Login leht
+
+- Tutvustus meie äpist.
+
+## Registreerimis leht
+
+## Avaleht
+
+- Tere tulemast tekst
+- Nupp, millele vajutades saab luua uue PDF- faili.
+  Nupule vajutades avaneb "Create" leht.
+
+
+
+### Kõik PDF failid, mida kasutaja on genereerinud.
+
+
+- PDF fail on allalaetav ja kustutatav.
+
+## PDF faili loomise leht
+
+- 
+
+
+
+
+  
+
+
+
+
  
